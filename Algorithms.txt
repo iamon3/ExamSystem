@@ -1,0 +1,18 @@
+1) Worst case order of searching in Binary Search Tree is
+O(n), O(log n), O(n^2)
+1
+2) Worst case order of quick sort sorting algo is
+O(nlog n), O(n^2), in between 1st two options
+2
+3) When insertion is priorty which data structure is good ?
+Linked List, Array, Binary Search Tree, Hashing, Balanced Binary Search Tree
+5
+4) Travelling Saleman problem is 
+Easy, NP-Complete, Can be solved in polynomial order
+2
+5) Which approach should be used when there is duplicate overlapping recursive substracture in given problem?
+Devide and Conquer, Dynamic Programming, Greedy Algorithm, Combinatorial Search
+2
+6) Which is stable sorting algorithm ?
+Heap Sort, Quick Sort, Merge Sort, Selection Sort, Insertion Sort 
+5

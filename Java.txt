@@ -1,0 +1,15 @@
+1)Is java Object oriented Language?
+yes, no, partly
+3
+2)Which method should be overriden along with equals()?
+toString(), hashCode(), wait(), notify()
+2
+3)Which methods are in Serializable interface ?
+Serialize(), readObject(), no method present
+3
+4)Garbage collection can be run using
+System.gc(), cant be run
+2
+5)Collections is
+utility class, interface, framework
+1
