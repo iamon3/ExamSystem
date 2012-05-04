@@ -1,5 +1,5 @@
-Developed by Ajit Sonawane. 
-ExamSystem is application build considering following points
+Developed by Free Coder. 
+ExamSystem is the application built considering following points
 * api package in the application defines abstraction of this application.
 * Anybody who wants to build Exam Application can be guided from api package
 * All different types of objects can be created using abstract factory methods from examFactory package
